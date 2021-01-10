@@ -3,9 +3,16 @@
 
 <br>
 
+- **목차**
+  - [🛠 Layout](#Layout)
+    - [✏️ Coordinator Tab Layout](#Coordinator-Tab-Layout-구현하기)
+    - [✏️ TabLayout](#TabLayout)
+  - [🌷Animation](#Animation)
+    - [🖍 Animation _Transition](#Animation _Transition)
+
 <br>
 
-## 👀 Layout
+## Layout
 
 ### Coordinator Tab Layout 구현하기
 
@@ -31,7 +38,7 @@
 
 
 
-## 🔥 Animation
+## Animation
 
 ### Animation _Transition
 
