@@ -4,18 +4,16 @@
 <br>
 
 - **목차**
-  - [✏️ Wifi 연결 상태 확인하기](# Wifi-연결-상태-확인하기)
-  - [🛠 WebView 사용하기](# WebView-사용하기)
-  - [💫 Splash 화면 만들기](# Splash-화면-만들기)
-  - [🦹🏻 darkmode 적용하기](# darkmode-적용하기)
-  - [📝 언어 설정하기(Eng / Kor)](# 언어-설정하기(Eng-/-Kor))
-  - [🥕 Zxing 라이브러리로 QR코드 스캐너 만들기](# Zxing-라이브러리로-QR코드-스캐너-만들기)
-
-
+  - [✏️ Wifi 연결 상태 확인하기](#Wifi-연결-상태-확인하기)
+  - [🛠 WebView 사용하기](#WebView-사용하기)
+  - [💫 Splash 화면 만들기](#Splash-화면-만들기)
+  - [🦹🏻 darkmode 적용하기](#darkmode-적용하기)
+  - [📝 언어 설정하기(Eng / Kor)](#언어-설정하기(Eng-/-Kor))
+  - [🥕 Zxing 라이브러리로 QR코드 스캐너 만들기](#Zxing-라이브러리로-QR코드-스캐너-만들기)
 
 <br>
 
-## ✏️ Wifi 연결 상태 확인하기
+## Wifi 연결 상태 확인하기
 
 [Wifi 연결 상태 확인하기 포스팅📌](https://yunaaaas.tistory.com/9?category=966970)
 
@@ -32,7 +30,7 @@ fun getNetworkConnected(context: Context): Boolean {
 
 <br>
 
-## 🛠 WebView 사용하기
+## WebView 사용하기
 
 [WebView 사용하기 포스팅📌](https://yunaaaas.tistory.com/11?category=966970)
 
@@ -65,7 +63,7 @@ private fun initWebView(address : String) {
 
 <br>
 
-## 💫 Splash 화면 만들기
+## Splash 화면 만들기
 
 [Splash 화면 만들기 포스팅📌](https://yunaaaas.tistory.com/17?category=966970)
 
@@ -77,7 +75,7 @@ private fun initWebView(address : String) {
 
 <br>
 
-## 🦹🏻 darkmode 적용하기
+## darkmode 적용하기
 
 [darkmode 적용하기 포스팅📌](https://yunaaaas.tistory.com/18?category=966970)
 
@@ -87,7 +85,7 @@ private fun initWebView(address : String) {
 
 <br>
 
-## 📝 언어 설정하기(Eng / Kor)
+## 언어 설정하기(Eng / Kor)
 
 [언어 설정 적용하기 포스팅📌](https://yunaaaas.tistory.com/19?category=966970)
 
@@ -104,7 +102,7 @@ resources.updateConfiguration(configuration,resources.displayMetrics)
 
 <br>
 
-## 🥕 Zxing 라이브러리로 QR코드 스캐너 만들기
+## Zxing 라이브러리로 QR코드 스캐너 만들기
 
 [Zxing 라이브러리 관련 포스팅📌](https://yunaaaas.tistory.com/10?category=966969)
 
