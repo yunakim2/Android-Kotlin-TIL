@@ -17,12 +17,13 @@
 
 더 나은 UI / UX를 구현하기 위한 모음집
 
-- Animation_transition 
-- Layout
-  - CoordinatorTabLayout
-  - TabLayout_basic
-  - TabLayout_round
-  - Animation_transition
+- **Animation**
+  - [Animation_transition](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
+- **Layout**
+  - [CoordinatorTabLayout](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
+  - TabLayout
+    - [TabLayout_Basic](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
+    - [TabLayout_Round](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
 
 
 
@@ -32,11 +33,12 @@
 
 그 동안 프로젝트를 진행하면서 구현했던 기능 모음집
 
-- Splash 화면 만들기
-- darkmode 적용하기
-- Zxing 라이브러리를 활용하여 QR코드 스캐너 만들기
-- WebView 사용하기
-- Wifi 연결상태 확인하기
+- [Wifi 연결 상태 확인하기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
+- [WebView 사용하기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
+- [Splash 화면 만들기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
+- [darkmode 적용하기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
+- [언어 설정하기 (Eng / Kor)](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
+- [Zxing 라이브러리로 QR코드 스캐너 만들기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
 
 
 
