@@ -5,7 +5,7 @@
 
 <br>
 
-## Layout
+## 👀 Layout
 
 ### Coordinator Tab Layout 구현하기
 
@@ -27,5 +27,19 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45454585/104130742-c12bef00-53b5-11eb-99db-254d9fa28f40.gif" height="500px" />
     <img src="https://user-images.githubusercontent.com/45454585/104130739-bffac200-53b5-11eb-8abc-14e9d09236e8.gif" height="500px" />
+</p>
+
+
+
+## 🔥 Animation
+
+### Animation _Transition
+
+AcitivityOptions의 makeScenceTransitionAnimation() 을 이용하여 Animation Transition 구현
+
+[간단한 Animation_Transition 구현하기 포스팅📌](https://yunaaaas.tistory.com/20)
+
+<p align="center">
+    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7zV6G%2FbtqR9mjtENd%2FhkuoIOXek3umKjXqvkBzS0%2Fimg.gif" height="500px" />
 </p>
 
