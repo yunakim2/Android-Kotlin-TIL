@@ -8,7 +8,7 @@
     - [✏️ Coordinator Tab Layout](#Coordinator-Tab-Layout-구현하기)
     - [✏️ TabLayout](#TabLayout)
   - [🌷Animation](#Animation)
-    - [🖍 Animation _Transition](#Animation _Transition)
+    - [🖍 Animation_Transition](#Animation-Transition)
 
 <br>
 
@@ -40,7 +40,7 @@
 
 ## Animation
 
-### Animation _Transition
+### Animation Transition
 
 AcitivityOptions의 makeScenceTransitionAnimation() 을 이용하여 Animation Transition 구현
 
