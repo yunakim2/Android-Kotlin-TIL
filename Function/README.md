@@ -99,6 +99,6 @@ resources.updateConfiguration(configuration,resources.displayMetrics)
 [Zxing 라이브러리 관련 포스팅📌](https://yunaaaas.tistory.com/10?category=966969)
 
 <p align="center">
-  <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOg2WK%2FbtqTcP5EWsi%2FEweWL3Ed9OLIzp7NpD1dDk%2Fimg.gif" alt="splash" height="500px" />
+  <img src = "./Function/zxing_qrcode.gif" alt="qrcode" height="500px" />
 </p>
 
