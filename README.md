@@ -19,11 +19,16 @@
 
 - **Animation**
   - [Animation_transition](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
+  - RecyclerView_transition
 - **Layout**
   - [CoordinatorTabLayout](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
   - TabLayout
     - [TabLayout_Basic](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
     - [TabLayout_Round](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
+  - RecyclerView
+    - RecyclerView Swipe
+    - MultiView 타입의 RecyclerView 구현하기
+  - BottomSheet
 
 
 
@@ -39,6 +44,15 @@
 - [darkmode 적용하기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
 - [언어 설정하기 (Eng / Kor)](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
 - [Zxing 라이브러리로 QR코드 스캐너 만들기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
+- ARcore / scenceform을 활용한 AR Object 띄우기
+- 소리나는 버튼 만들기
+- 내 위치 찾기 및 GPS 사용하기
+- Papago API 사용하기
+- Naver Map API 사용하기
+- Kakao newtone API 사용하기
+- BottomSheet를 활용한 이벤트
+- CameraX 사용하기
+- Realm 사용하여 다이어리 만들어보기
 
 
 
