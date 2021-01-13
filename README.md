@@ -26,6 +26,7 @@
     - [TabLayout_Basic](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
     - [TabLayout_Round](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
   - RecyclerView
+    - [RecyclerView Basic](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
     - RecyclerView Swipe
     - MultiView 타입의 RecyclerView 구현하기
   - BottomSheet
