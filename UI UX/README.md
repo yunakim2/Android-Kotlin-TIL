@@ -10,6 +10,7 @@
     - [👀RecyclerView](# RecyclerView)
   - [🌷Animation](#Animation)
     - [🖍 Animation_Transition](#Animation-Transition)
+    - [🔥RecyclerView Transition](#RecyclerView-Transition)
 
 <br>
 
@@ -62,4 +63,18 @@ AcitivityOptions의 makeScenceTransitionAnimation() 을 이용하여 Animation T
 <p align="center">
     <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7zV6G%2FbtqR9mjtENd%2FhkuoIOXek3umKjXqvkBzS0%2Fimg.gif" height="500px" />
 </p>
+
+<br>
+
+### RecyclerView Transition
+
+AcitivityOptions의 makeScenceTransitionAnimation() 을 이용하여 Animation Transition 구현
+
+[RecyclerView Animation Transition 구현하기 포스팅 📌](https://yunaaaas.tistory.com/58)
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/45454585/105382193-281d9380-5c53-11eb-84de-4f906c42aa84.gif" height="500px" />
+</p>
+
+<br>
 

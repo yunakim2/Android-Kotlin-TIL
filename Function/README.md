@@ -10,6 +10,7 @@
   - [🦹🏻 darkmode 적용하기](#darkmode-적용하기)
   - [📝 언어 설정하기(Eng / Kor)](#언어-설정하기(Eng-/-Kor))
   - [🥕 Zxing 라이브러리로 QR코드 스캐너 만들기](#Zxing-라이브러리로-QR코드-스캐너-만들기)
+  - [📌 RecyclerView 클릭 이벤트 외부에 만들기](#RecyclerView-클릭-이벤트-외부에-만들기)
 
 <br>
 
@@ -109,5 +110,17 @@ resources.updateConfiguration(configuration,resources.displayMetrics)
 <p align="center">
   <img src = "https://user-images.githubusercontent.com/45454585/104130474-44e4dc00-53b4-11eb-9369-65c8b04f14a3.jpg" alt="qrcode2" height="500px" />
   <img src = "https://user-images.githubusercontent.com/45454585/104130476-46ae9f80-53b4-11eb-9e35-211543446e27.jpg" alt="qrcode3" height="500px" />
+</p>
+
+
+
+
+
+## RecyclerView 클릭 이벤트 외부에 만들기
+
+[RecyclerView 클릭 이벤트 관련 포스팅📌](https://yunaaaas.tistory.com/57)
+
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/45454585/105381918-dffe7100-5c52-11eb-8f66-e1e8d9a450ad.gif" alt="splash" height="500px" />
 </p>
 

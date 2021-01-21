@@ -19,7 +19,7 @@
 
 - **Animation**
   - [Animation_transition](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
-  - RecyclerView_transition
+  - [RecyclerView_transition](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
 - **Layout**
   - [CoordinatorTabLayout](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/UI%20UX)
   - TabLayout
@@ -45,6 +45,7 @@
 - [darkmode 적용하기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
 - [언어 설정하기 (Eng / Kor)](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
 - [Zxing 라이브러리로 QR코드 스캐너 만들기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
+- [RecyclerView 클릭이벤트 외부에 만들기](https://github.com/yunakim2/Android-Kotlin-TIL/tree/main/Function)
 - ARcore / scenceform을 활용한 AR Object 띄우기
 - 소리나는 버튼 만들기
 - 내 위치 찾기 및 GPS 사용하기
