@@ -7,7 +7,7 @@
   - [🛠 Layout](#Layout)
     - [👀Coordinator Tab Layout](#Coordinator-Tab-Layout-구현하기)
     - [👀 TabLayout](#TabLayout)
-    - [👀RecyclerView](# RecyclerView)
+    - [👀RecyclerView](#RecyclerView)
   - [🌷Animation](#Animation)
     - [🖍 Animation_Transition](#Animation-Transition)
     - [🔥RecyclerView Transition](#RecyclerView-Transition)
