@@ -9,13 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RecyclerView_EX">
-        <activity android:name=".MainActivity">
+        <activity android:name=".recyclerview_multi.MultiviewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".recyclerview_basic.ProfileDetailActivity" />
+        <activity android:name=".recyclerview_basic.MainActivity"/>
     </application>
 
 </manifest>

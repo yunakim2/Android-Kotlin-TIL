@@ -10,13 +10,13 @@
 
     <ImageView
         android:id="@+id/img_rv_photo"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
         android:src="@color/black"
         android:transitionName="image"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"/>
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/tv_rv_name"
@@ -25,23 +25,11 @@
         android:text="이름"
         android:transitionName="name"
         android:textStyle="bold"
-        android:layout_marginLeft="20dp"
         android:textSize="24sp"
+        android:layout_marginVertical="20dp"
         android:textColor="@color/white"
-        app:layout_constraintLeft_toRightOf="@id/img_rv_photo"
-        app:layout_constraintTop_toTopOf="parent"/>
-
-    <TextView
-        android:id="@+id/tv_rv_age"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="나이"
-        android:layout_marginTop="10dp"
-        android:layout_marginLeft="20dp"
-        android:textSize="18sp"
-        android:textColor="@color/white"
-        app:layout_constraintLeft_toRightOf="@id/img_rv_photo"
-        app:layout_constraintTop_toBottomOf="@id/tv_rv_name"/>
-
+        app:layout_constraintTop_toBottomOf="@id/img_rv_photo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

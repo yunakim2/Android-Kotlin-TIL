@@ -1,22 +1,27 @@
-package com.example.recyclerview_ex
+package com.example.recyclerview_ex.recyclerview_basic
 
 import android.content.Context
-import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.example.recyclerview_ex.R
+import com.example.recyclerview_ex.inflate
 
 class ProfileAdapter(private val context: Context) : RecyclerView.Adapter<ProfileAdapter.ViewHolder>() {
 
     var datas = mutableListOf<ProfileData>()
-//    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-//        val view = LayoutInflater.from(context).inflate(R.layout.item_recycler_ex,parent,false)
-//        return ViewHolder(view)
-//    }
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder  = ViewHolder(parent.inflate(R.layout.item_recycler_ex))
+
+    interface OnItemClickListener{
+        fun onItemClick(v:View, data: ProfileData, pos : Int)
+    }
+    private var listener : OnItemClickListener? = null
+    fun setOnItemClickListener(listener : OnItemClickListener) {
+        this.listener = listener
+    }
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder = ViewHolder(parent.inflate(R.layout.item_recycler_ex))
 
      override fun getItemCount(): Int = datas.size
 
@@ -35,8 +40,15 @@ class ProfileAdapter(private val context: Context) : RecyclerView.Adapter<Profil
             txtAge.text = item.age.toString()
             Glide.with(itemView).load(item.img).into(imgProfile)
 
+            val pos = adapterPosition
+            if(pos!= RecyclerView.NO_POSITION)
+            {
+                itemView.setOnClickListener {
+                    listener?.onItemClick(itemView,item,pos)
+                }
+            }
+
+
         }
     }
-
-
 }

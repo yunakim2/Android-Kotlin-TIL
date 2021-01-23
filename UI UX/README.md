@@ -25,13 +25,9 @@
 
 ### TabLayout
 
-- TabLayout - Basic 
+- [기본 TabLayout 만들기 포스팅📌](https://yunaaaas.tistory.com/12)
 
-   [기본 TabLayout 만들기 포스팅📌](https://yunaaaas.tistory.com/12)
-
-- TabLayout - Round 
-
-  [Round TabLayout 만들기 포스팅📌](https://yunaaaas.tistory.com/13)
+- [Round TabLayout 만들기 포스팅📌](https://yunaaaas.tistory.com/13)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45454585/104130742-c12bef00-53b5-11eb-99db-254d9fa28f40.gif" height="500px" />
@@ -48,9 +44,15 @@
 
 - RecycelrView Swipe 
 
-- MultiView타입의 RecyclerView
+  <br>
 
+- [MultiView타입의 RecyclerView 포스팅📌](https://yunaaaas.tistory.com/61)
 
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/45454585/105609574-8ed6b480-5ded-11eb-9c1d-ed8117bf0382.gif" height="500px" />
+  </p>
+
+<br>
 
 ## Animation
 
@@ -75,6 +77,5 @@ AcitivityOptions의 makeScenceTransitionAnimation() 을 이용하여 Animation T
 <p align="center">
     <img src="https://user-images.githubusercontent.com/45454585/105382193-281d9380-5c53-11eb-84de-4f906c42aa84.gif" height="500px" />
 </p>
-
 <br>
 

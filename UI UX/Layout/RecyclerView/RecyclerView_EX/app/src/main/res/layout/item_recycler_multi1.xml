@@ -15,7 +15,7 @@
         android:src="@color/black"
         android:transitionName="image"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"/>
 
     <TextView
@@ -25,10 +25,10 @@
         android:text="이름"
         android:transitionName="name"
         android:textStyle="bold"
-        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:textSize="24sp"
         android:textColor="@color/white"
-        app:layout_constraintLeft_toRightOf="@id/img_rv_photo"
+        app:layout_constraintRight_toLeftOf="@id/img_rv_photo"
         app:layout_constraintTop_toTopOf="parent"/>
 
     <TextView
@@ -37,10 +37,10 @@
         android:layout_height="wrap_content"
         android:text="나이"
         android:layout_marginTop="10dp"
-        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:textSize="18sp"
         android:textColor="@color/white"
-        app:layout_constraintLeft_toRightOf="@id/img_rv_photo"
+        app:layout_constraintRight_toLeftOf="@id/img_rv_photo"
         app:layout_constraintTop_toBottomOf="@id/tv_rv_name"/>
 
 
