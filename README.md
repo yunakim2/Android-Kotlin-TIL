@@ -54,6 +54,7 @@
 - BottomSheet를 활용한 이벤트
 - CameraX 사용하기
 - Realm 사용하여 다이어리 만들어보기
+- 카카오 로그인 연동하기 (Legacy / v2)
 
 
 
@@ -67,6 +68,13 @@
 - MVP
 - MVVM
 - Clean
+
+디자인 패턴 공부 정리 모음집
+
+- Dagger
+- Dagger Hilt
+- Koin
+
 
 
 
