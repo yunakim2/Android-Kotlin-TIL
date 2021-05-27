@@ -62,18 +62,7 @@
 
 ## 🥑 Architecture
 
-안드로이드 아키텍쳐 공부 정리 모음집
 
-- MVC
-- MVP
-- MVVM
-- Clean
-
-디자인 패턴 공부 정리 모음집
-
-- Dagger
-- Dagger Hilt
-- Koin
 
 
 
