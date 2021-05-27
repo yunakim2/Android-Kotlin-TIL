@@ -54,7 +54,7 @@
 - BottomSheet를 활용한 이벤트
 - CameraX 사용하기
 - Realm 사용하여 다이어리 만들어보기
-- 카카오 로그인 연동하기 (Legacy / v2)
+- [카카오 로그인 연동하기 (v2)](https://yunaaaas.tistory.com/86)
 
 
 
