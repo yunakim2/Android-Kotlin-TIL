@@ -8,6 +8,8 @@
 ## 🍎 Kotlin
 
  코틀린 문법 관련 정리 모음집
+ 
+ - [kotlin 언어 특징 정리](https://yunaaaas.tistory.com/87?category=967086)
 
 
 
